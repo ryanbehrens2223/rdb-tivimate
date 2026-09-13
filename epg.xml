@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="rdb-tivimate">
+  <!-- TiviMate should load EPG from the url-tvg values in playlist.m3u:
+       https://i.mjh.nz/PlutoTV/us.xml
+       https://i.mjh.nz/SamsungTVPlus/us.xml
+       This file is kept so a local test server has an EPG path. -->
+</tv>
