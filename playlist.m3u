@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/SamsungTVPlus/us.xml"
 # Source: iptv-org US public catalog, filtered for US-reachable official hosts.
 # Sports are listed first. Premium pay-TV restreams are omitted.
-# Channels: 1295. Sports-tagged: 47.
-# Skipped geo-blocked: 61. Skipped panel hosts: 119.
+# Channels: 1296. Sports-tagged: 47.
+# Skipped geo-blocked: 61. Skipped panel hosts: 117.
 #EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-logo="https://i.imgur.com/zOXN7hX.png" group-title="Auto;Outdoor;Series;Sports",Rev'n Action (720p)
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-logo="https://i.imgur.com/u8zXUOg.png" group-title="Entertainment;Sports",RightNow TV (720p)
@@ -1587,6 +1587,8 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico (720p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@US" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Movies",Cine terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us@SD" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (720p)
